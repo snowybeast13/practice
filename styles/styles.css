@@ -50,6 +50,9 @@ b {
     text-align: left;
   }
   .bar-wrap {
-    justify-content: left !important;
+    justify-content: space-between !important;
+  }
+  .bar-wrap p {
+    width: 40px;
   }
 }
